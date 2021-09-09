@@ -15,10 +15,10 @@ This repository is an official implementation.
 
 ## Main Results
 
-|  **Method**  |  **Dataset**  |  **Train Data**  |  **MOTA**  |  **IDF1**  |  **IDS**  |  **URL**  |  
-|:------:|:------:|:------:|:------:|:------:|:------:|:------:|  
-| MOTR | MOT16 | MOT17+CrowdHuman Val | 65.8 | 67.1 | 547 | [model](https://drive.google.com/file/d/1xqRRHvsHZ22icdWwGZbzonNa440Aqw_9/view?usp=sharing) |
-| MOTR | MOT17 | MOT17+CrowdHuman Val | 66.5 | 67.0 | 1884 | [model](https://drive.google.com/file/d/1xqRRHvsHZ22icdWwGZbzonNa440Aqw_9/view?usp=sharing) |
+|  **Method**  |  **Dataset**  |  **Train Data**  |  **MOTA**  |  **IDF1**  |  **IDS**  |
+|:------:|:------:|:------:|:------:|:------:|:------:|
+| MOTR | MOT16 | MOT17+CrowdHuman Val | 66.8 | 67.0 | 586 |
+| MOTR | MOT17 | MOT17+CrowdHuman Val | 67.4 | 67.0 | 1992 |
 
 *Note:*
 
